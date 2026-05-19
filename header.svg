@@ -188,7 +188,7 @@
   <!-- Status bar -->
   <rect x="72" y="273" width="702" height="14" fill="#c0c0c0"/>
   <rect x="72" y="273" width="702" height="1" fill="#808080"/>
-  <text x="78"  y="283" font-family="VT323,monospace" font-size="13" fill="#000">Pronto</text>
+  <text x="78"  y="283" font-family="VT323,monospace" font-size="13" fill="#000">C:</text>
   <rect x="162" y="275" width="1" height="10" fill="#808080"/>
   <text x="168" y="283" font-family="VT323,monospace" font-size="13" fill="#000">kennedy-exe/Kennedy-exe</text>
 
