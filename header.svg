@@ -133,7 +133,7 @@
 
   <!-- Prompt static -->
   <text x="90" y="143" font-family="VT323,monospace" font-size="19" fill="#000080">C:\Users\Kenny&gt; _</text>
-  <rect class="cursor" x="210" y="127" width="10" height="16" fill="#000"/>
+  <rect class="cursor" x="248" y="127" width="10" height="16" fill="#000"/>
 
   <!-- Divider 2 -->
   <rect x="88" y="152" width="622" height="1" fill="#808080"/>
