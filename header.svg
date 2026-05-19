@@ -141,7 +141,7 @@
 
   <!-- Progress bars -->
   <!-- C -->
-  <text x="90" y="173" font-family="VT323,monospace" font-size="17" fill="#000">C / ponteiros</text>
+  <text x="90" y="173" font-family="VT323,monospace" font-size="17" fill="#000">C </text>
   <rect x="212" y="161" width="162" height="14" fill="#808080"/>
   <rect x="213" y="162" width="160" height="12" fill="#dfdfdf"/>
   <g clip-path="url(#bc1)" transform="translate(213,162)">
